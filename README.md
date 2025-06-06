@@ -24,7 +24,7 @@ python -m venv venv
 Activate your venv
 
 ```bash
-\venv\scripts\activate.bat
+venv\Scripts\activate.bat
 ```
 If you are using PowerShell, the above command would instead be activate.ps1
 
